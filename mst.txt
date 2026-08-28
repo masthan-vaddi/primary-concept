@@ -1,0 +1,14 @@
+	AWS - cloud 
+
+git for updating code purpose 
+
+maven for build purpose
+
+Jenkins for code implementing or delivery, deploying
+
+Docker for container 
+
+Kubernetes container orchestrator
+
+terraform for unfracture as a code   
+   
